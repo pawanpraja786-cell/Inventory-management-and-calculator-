@@ -1,0 +1,6 @@
+{
+  "name": "Kamar Taj",
+  "description": "Resin art studio app for material inventory, dynamic pricing calculator, customer catalog sharing, and order quotation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
